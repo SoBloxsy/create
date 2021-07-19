@@ -1,5 +1,5 @@
 # create.sobloxsy.com
-website [create.sobloxsy.com]
+website[create.sobloxsy.com]
 
 # What's this
 this is a scratch remake using scripts from griffpatch and scratch 
