@@ -228,4 +228,3 @@ ExampleExtension.prototype.returnFalse = function () {
 };
 
 Scratch.extensions.register(new ExampleExtension());
-{"mode":"full","isActive":false}
