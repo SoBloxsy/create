@@ -57,7 +57,7 @@ input.s3devInp{
 }
 
 .s3devDDOut{
-  border-radius: .6rem
+  border-radius: .6rem !important
 }
 
 .var, .VAR {
